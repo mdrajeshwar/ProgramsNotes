@@ -40,3 +40,4 @@ namespace Program1
 // 'Dog' can use methods of 'Animal' (like Eat()) and also has its own methods (like Bark()).
 // Syntax: class DerivedClass : BaseClass
 // This helps in code reuse and organization.
+
